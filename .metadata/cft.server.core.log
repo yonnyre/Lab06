@@ -1,0 +1,16 @@
+mié sep 20 2017 10:32:36 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:32:37 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}
+mié sep 20 2017 10:35:25 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:35:25 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}
+mié sep 20 2017 10:45:58 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:45:58 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}
+mié sep 20 2017 10:46:16 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:46:16 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}
+mié sep 20 2017 10:49:08 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:49:08 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}
+mié sep 20 2017 10:49:32 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:49:32 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}
+mié sep 20 2017 10:50:25 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:50:25 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}
+mié sep 20 2017 10:55:48 AM - CloudFoundryServer.modifyModules(...): add: { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]} remove: {}
+mié sep 20 2017 10:55:48 AM - CloudFoundryServerBehaviour.publishModule(...): ADDED { lab06JSF [org.eclipse.jst.j2ee.server:lab06JSF/jst.web]}

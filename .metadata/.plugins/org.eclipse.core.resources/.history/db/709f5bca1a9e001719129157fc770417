@@ -1,0 +1,5 @@
+package com.tecsup.lab6.jsf.bean;
+
+public class HelloWord {
+
+}

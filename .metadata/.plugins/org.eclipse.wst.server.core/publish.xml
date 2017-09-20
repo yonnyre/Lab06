@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<publish-info>
+  <server id="Cloud Foundry (5)" path="publish4.dat"/>
+  <server id="Cloud Foundry (4)" path="publish3.dat"/>
+  <server id="Cloud Foundry (7)" path="publish6.dat"/>
+  <server id="Cloud Foundry (6)" path="publish5.dat"/>
+  <server id="Cloud Foundry" path="publish0.dat"/>
+  <server id="Cloud Foundry (3)" path="publish2.dat"/>
+  <server id="Cloud Foundry (2)" path="publish1.dat"/>
+  <server id="Cloud Foundry (8)" path="publish7.dat"/>
+  <server id="Tomcat v8.5 Server at localhost" path="publish8.dat"/>
+</publish-info>
